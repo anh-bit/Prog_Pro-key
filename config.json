@@ -2,6 +2,8 @@
   "status": "ON",
   "users": {
     "DMI - DC ANH アイン": { "active": true, "expire": "" },
-    "DMI - HTT MINH ミン": { "active": true, "expire": "" }
+    "DMI - HTT MINH ミン": { "active": true, "expire": "" },
+    "DMI - TC CHINH チン": { "active": true, "expire": "" },
+    "DMI - NTP NGA ガー": { "active": true, "expire": "" },
   }
 }
