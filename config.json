@@ -1,7 +1,7 @@
 {
   "status": "ON",
   "users": {
-    "anh@dmi-inc.co.jp": { "active": true, "expire": "" },
+    "anh@dmi-inc.co.jp": { "active": false, "expire": "" },
     "minh@dmi-inc.co.jp": { "active": true, "expire": "" }
   }
 }
